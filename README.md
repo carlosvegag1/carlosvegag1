@@ -61,10 +61,10 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <td width="50%">
 <h3 align="center">🤖 AI & Automation</h3>
 <div align="center">
-<a href="https://github.com/carlosvegagonzalez/ai-automation" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="AI & Automation"></a>
+<a href="https://github.com/carlosvegagonzalez/ai-automation" target="_blank"><img src="https://i.imgur.com/oYNL2iM.png" width="400" alt="AI & Automation"></a>
 <p>
 <a href="https://github.com/carlosvegagonzalez/ai-automation" target="_blank">
-<img src="https://i.imgur.com/oYNL2iM.png">
+<img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>Building **AI-driven chatbots, LLM fine-tuning, and automated workflows** using OpenAI, LangChain & Python.</p>
