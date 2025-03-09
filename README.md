@@ -78,7 +78,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 ## 📊 GitHub Stats  
 
 <p align="center">
-<a href="https://github.com/carlosvegagonzalez">
+<a href="https://github.com/carlosvegag1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosvegagonzalez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosvegagonzalez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
