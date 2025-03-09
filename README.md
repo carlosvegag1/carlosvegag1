@@ -33,7 +33,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 - **Docker** | **Kubernetes** | **Power Platform**
 
 ### **Marketing & Content Creation**  
-- **WordPress** | ** Paquete Adobe | **Camtasia** | **SEO & Digital Marketing Strategies**  
+- **WordPress** | ** Paquete Adobe** | **Camtasia** | **SEO & Digital Marketing Strategies**  
 ---
 
 ## 🚀 Projects  
