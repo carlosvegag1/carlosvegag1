@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I'm Carlos Vega! 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2hi2KJT" data-context="false" ><a href="//imgur.com/a/2hi2KJT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## About Me  
 
