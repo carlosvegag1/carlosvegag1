@@ -62,7 +62,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Building **AI-driven chatbots, LLM fine-tuning, and automated workflows** using OpenAI, LangChain & Python.</p>
+<p>Building **AI-driven chatbots**, LLM fine-tuning, and automated workflows** using OpenAI, LangChain & Python.</p>
 </div>
 </td>
 </tr>
