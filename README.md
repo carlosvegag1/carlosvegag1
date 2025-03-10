@@ -54,7 +54,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 </td>
 
 <td width="50%">
-<h3 align="center">🤖 AI & Automation</h3>
+<h3 align="center">🔍 Explorando el Tráfico en Madrid</h3>
 <div align="center">
 <a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/blob/main/README.md" target="_blank"><img src="https://i.imgur.com/BhK5X8Y.png" width="400" alt="AI & Automation"></a>
 <p>
@@ -62,7 +62,8 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <img src="https://img.shields.io/badge/Code-GitHub-d62900?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p>Building **AI-driven chatbots**, LLM fine-tuning, and automated workflows** using OpenAI, LangChain & Python.</p>
+</p>📊 ¿Cuáles son las horas más peligrosas para conducir en Madrid? ¿Cómo influyen las condiciones climáticas en los accidentes?  
+</p>
 </div>
 </td>
 </tr>
