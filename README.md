@@ -41,7 +41,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <td width="50%">
 <h3 align="center">📊 Data Science Portfolio</h3>
 <div align="center">
-<a href="https://github.com/carlosvegagonzalez/datascience-portfolio" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Data Science Projects"></a>
+<a href="https://github.com/carlosvegagonzalez/datascience-portfolio" target="_blank"><img src="https://i.imgur.com/zCCMuX9.png" width="400" alt="Data Science Projects"></a>
 <p>
 <a href="https://github.com/carlosvegagonzalez/datascience-portfolio" target="_blank">
 <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
@@ -54,7 +54,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <td width="50%">
 <h3 align="center">🔍 Explorando el Tráfico en Madrid</h3>
 <div align="center">
-<a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/blob/main/README.md" target="_blank"><img src="https://i.imgur.com/BhK5X8Y.png" width="400" alt="AI & Automation"></a>
+<a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/blob/main/README.md" target="_blank"><img src="https://i.imgur.com/JqAz5n4.png" width="400" alt="AI & Automation"></a>
 <p>
 <a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/blob/main/README.md" target="_blank">
 <img src="https://img.shields.io/badge/Code-GitHub-d62900?style=for-the-badge&logo=github&logoColor=white">
