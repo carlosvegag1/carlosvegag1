@@ -44,7 +44,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <a href="https://github.com/carlosvegagonzalez/datascience-portfolio" target="_blank"><img src="https://i.imgur.com/zCCMuX9.png" width="400" alt="Data Science Projects"></a>
 <p>
 <a href="https://github.com/carlosvegagonzalez/datascience-portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Code-GitHub-ffde59?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>A collection of **real-world data science projects**, including **predictive analytics, NLP applications, and recommendation systems**.</p>
