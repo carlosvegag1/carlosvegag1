@@ -15,16 +15,14 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 ## 🔧 Technical Skills  
 
 ### **Programming & Data Science**  
-- **Python** | **SQL** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn** | **Scikit-learn**  
-- **PySpark MLlib** | **R**  
+- **Python** | **SQL** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn** | **Scikit-learn** | **PySpark MLlib** | **R**  
 
 ### **Cloud & Big Data**  
 - **AWS (Certified Cloud Practitioner, Solutions Architect in Progress)**  
 - **Apache Spark** | **Hadoop** | **MongoDB** | **PostgreSQL** | **Neo4J**  
 
 ### **Machine Learning & AI**    
-- **Generative AI, NLP, and LLM Fine-tuning**  
-- **Recommender Systems & Predictive Analytics**  
+- **Generative AI, NLP, and LLM Fine-tuning** | **Recommender Systems & Predictive Analytics**  
 
 ### **Data Visualization & BI**  
 - **Power BI** | **Tableau** | **Plotly**
@@ -33,7 +31,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 - **Docker** | **Kubernetes** | **Power Platform**
 
 ### **Marketing & Content Creation**  
-- **WordPress** | **Paquete Adobe** | **Camtasia** | **SEO & Digital Marketing Strategies**  
+- **WordPress** | **Adobe Package** | **Camtasia** | **SEO & Digital Marketing Strategies**  
 ---
 
 ## 🚀 Projects  
