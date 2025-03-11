@@ -10,7 +10,7 @@
 📊 **Passionate about AI, Cloud Computing & Business Intelligence**  
 💡 **Exploring the intersection of data, storytelling & automation**  
 
-Currently pursuing a **Master's in Data Science and Business Analytics**, I combine my background in **journalism and digital communication** with expertise in **machine learning, cloud computing, and data analytics**. My mission is to leverage **data-driven insights** to solve complex business problems and create innovative solutions that drive impact.  
+Currently pursuing a **Master's in Data Science and Business Analytics**, I combine my background in **journalism and digital communication** with my growing expertise in **machine learning, cloud computing, and data analytics**. My mission is to leverage **data-driven insights** to solve complex business problems and create innovative solutions that drive impact.  
 
 ## 🔧 Technical Skills  
 
