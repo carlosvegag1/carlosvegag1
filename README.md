@@ -41,9 +41,9 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <td width="50%">
 <h3 align="center">📊 Data Science Portfolio</h3>
 <div align="center">
-<a href="https://github.com/carlosvegagonzalez/datascience-portfolio" target="_blank"><img src="https://i.imgur.com/Af3c50M.png" width="400" alt="Data Science Projects"></a>
+<a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank"><img src="https://i.imgur.com/Af3c50M.png" width="400" alt="Data Science Projects"></a>
 <p>
-<a href="https://github.com/carlosvegagonzalez/datascience-portfolio" target="_blank">
+<a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank">
 <img src="https://img.shields.io/badge/Code-GitHub-ffde59?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
