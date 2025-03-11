@@ -39,7 +39,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📊 Estudio sobre las emisiones de gases</h3>
+<h3 align="center">📊 Estudio sobre emisiones de gases</h3>
 <div align="center">
 <a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank"><img src="https://i.imgur.com/Af3c50M.png" width="400" alt="Emissions-Analysis-Spain"></a>
 <p>
