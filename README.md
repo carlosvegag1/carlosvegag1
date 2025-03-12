@@ -18,7 +18,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 - **Python** | **SQL** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn** | **Scikit-learn** | **PySpark MLlib** | **R**  
 
 ### **Cloud & Big Data**  
-- **AWS (Certified Cloud Practitioner, Solutions Architect in Progress)**  
+- **AWS (Certified Cloud Practitioner, Solutions Architect in Progress)** | **Azure (OpenAI Services)**   
 - **Apache Spark** | **Hadoop** | **MongoDB** | **PostgreSQL** | **Neo4J**  
 
 ### **Machine Learning & AI**    
