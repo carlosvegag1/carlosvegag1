@@ -21,7 +21,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 - **Python** | **SQL** | **R** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn** | **Scikit-learn** | **PySpark MLlib**  
 
 ### **☁️ Cloud & Big Data**  
-- **AWS (Certified Cloud Practitioner)** | **AWS Solutions Architect in Progress** | **Azure (OpenAI Services)**
+- **AWS Certified Cloud Practitioner** | **AWS Solutions Architect in Progress** | **Azure (OpenAI Services)**
 - **Apache Spark** | **Hadoop** | **MongoDB** | **PostgreSQL** | **Neo4J**  
 
 ### **🤖 AI & Machine Learning**  
