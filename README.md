@@ -25,7 +25,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 - **Apache Spark** | **Hadoop** | **MongoDB** | **PostgreSQL** | **Neo4J**  
 
 ### **🤖 AI & Machine Learning**  
-- **Generative AI (LLMs & NLP)** | **Predictive Analytics** | **Recommender Systems** | **Fine Tunning & Prompting**  
+- **Generative AI (LLMs & NLP)** | **Predictive Analytics** | **Recommender Systems** | **Fine-Tuning & Prompting**  
 
 ### **📊 Data Visualization & BI**  
 - **Power BI** | **Tableau** | **Plotly** | **Excel**  
@@ -86,11 +86,8 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 
 <div align="center">
 <h2 align="center">🔗 Connect with Me!</h2>
-<h3 align="center">📬 Email: carlosvegagonzalez1@gmail.com</h3>
-<h3 align="center">🔗 LinkedIn: [linkedin.com/in/carlos-vega-gonzalez](https://www.linkedin.com/in/carlos-vega-gonzalez)</h3>
+<h3 align="center">📬 Email: <a href="mailto:carlosvegagonzalez1@gmail.com">carlosvegagonzalez1@gmail.com</a></h3>
+<h3 align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/carlos-vega-gonzalez">linkedin.com/in/carlos-vega-gonzalez</a></h3>
 </div>
-
-## 🔗 Connect with Me  
-
-📬 **Email**: carlosvegagonzalez1@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/carlos-vega-gonzalez](https://www.linkedin.com/in/carlos-vega-gonzalez)  
+</div>
+</div>
