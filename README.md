@@ -25,7 +25,7 @@ Currently pursuing a **Master's in Data Science and Business Analytics**, I comb
 - **Generative AI, NLP, and LLM Fine-tuning** | **Recommender Systems & Predictive Analytics**  
 
 ### **Data Visualization & BI**  
-- **Power BI** | **Tableau** | **Plotly**
+- **Power BI** | **Tableau** | **Plotly**| **Excel** 
 
 ### **Automation & Cloud Tools**  
 - **Docker** | **Kubernetes** | **Power Platform**
