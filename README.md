@@ -38,7 +38,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 
 ---
 
-## 🚀 Featured Projects  
+## 💻 Featured Projects  
 
 <table>
 <tr>
