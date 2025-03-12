@@ -25,7 +25,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 - **Apache Spark** | **Hadoop** | **MongoDB** | **PostgreSQL** | **Neo4J**  
 
 ### **🤖 AI & Machine Learning**  
-- **Generative AI (LLMs & NLP)** | **Predictive Analytics** | **Recommender Systems** | **Fine-Tuning & Prompting**  
+- **GenAI (LLMs & NLP)** | **Predictive Analytics** | **Recommender Systems** | **Fine-Tuning & Prompting**  
 
 ### **📊 Data Visualization & BI**  
 - **Power BI** | **Tableau** | **Plotly** | **Excel**  
