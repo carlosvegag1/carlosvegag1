@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">👋 Hi, I'm Carlos Vega!</h1>
-<img src="https://i.imgur.com/9PXqhV6.png">
+<img src="https://i.imgur.com/Jvd2dN1.png">
 </div>
 
 ## 🚀 About Me  
