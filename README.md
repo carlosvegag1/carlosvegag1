@@ -43,7 +43,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📊 Air Pollution & Emissions Analysis</h3>
+<h3 align="center">📊 Emissions Analysis in Spain</h3>
 <div align="center">
 <a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank"><img src="https://i.imgur.com/Af3c50M.png" width="400" alt="Emissions-Analysis-Spain"></a>
 <p>
