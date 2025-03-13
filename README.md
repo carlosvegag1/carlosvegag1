@@ -51,7 +51,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 <img src="https://img.shields.io/badge/Code-GitHub-ffde59?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>🌍 Analyzing trends in Spain’s air pollution to identify key sources and their impact over time through interactive visualisations.</p>
+<p>🌍 Analyzing trends in Spain’s air pollution to identify key sources and their impact over time</p>
 </div>
 </td>
 
