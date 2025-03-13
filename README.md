@@ -69,34 +69,32 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 </div>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%">
-<h3 align="center">📊 Emissions Analysis in Spain</h3>
+<h3 align="center">📡 AI-Driven Social Media Analysis</h3>
 <div align="center">
-<a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank"><img src="https://i.imgur.com/Af3c50M.png" width="400" alt="Emissions-Analysis-Spain"></a>
+<a href="https://github.com/carlosvegag1/social-media-ai" target="_blank">
+<img src="https://i.imgur.com/example.png" width="400" alt="Social Media AI"></a>
 <p>
-<a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank">
-<img src="https://img.shields.io/badge/Code-GitHub-ffde59?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/carlosvegag1/social-media-ai" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-4285F4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>🌍 Analyzing trends in Spain’s air pollution to identify key sources and their impact over time</p>
+<p>📊 Leveraging AI & NLP to analyze sentiment trends across social media platforms.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">🔍 Traffic Accidents in Madrid</h3>
+<h3 align="center">📈 Predictive Sales Forecasting</h3>
 <div align="center">
-<a href="https://github.com/carlosvegag1/accidents-analysis-madrid/tree/main" target="_blank"><img src="https://i.imgur.com/Zbrp2U1.png" width="400" alt="AI & Automation"></a>
+<a href="https://github.com/carlosvegag1/sales-forecasting" target="_blank">
+<img src="https://i.imgur.com/example2.png" width="400" alt="Sales Forecasting"></a>
 <p>
-<a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/tree/main" target="_blank">
-<img src="https://img.shields.io/badge/Code-GitHub-d62900?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/carlosvegag1/sales-forecasting" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-34A853?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>📊 What are the most dangerous hours to drive in Madrid? How do weather conditions influence accidents? 
-</p>
+<p>📈 Using Machine Learning models to forecast sales trends and optimize business strategy.</p>
 </div>
 </td>
 </tr>
