@@ -68,7 +68,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
           <img src="https://img.shields.io/badge/Code-GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=black&labelColor=FFCC4D">
         </a>
       </p>
-      <p>📊 What are the most dangerous hours to drive in Madrid? How do weather conditions influence accidents?</p>
+      <p>📊 What are the most dangerous weeks, days or hours to drive in Madrid?</p>
     </div>
   </td>
 </tr>
