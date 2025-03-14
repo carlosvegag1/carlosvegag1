@@ -122,9 +122,10 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 <p align="center">
 <a href="https://github.com/carlosvegag1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosvegag1&show_icons=true&bg_color=4A4A4A&title_color=FFCC4D&text_color=FFCC4D&icon_color=FFCC4D&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosvegag1&layout=compact&langs_count=8&bg_color=4A4A4A&title_color=FFCC4D&text_color=FFCC4D&icon_color=FFCC4D"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosvegag1&layout=compact&langs_count=8&bg_color=F8F9FA&title_color=4A4A4A&text_color=4A4A4A&icon_color=FFCC4D"/>
 </a>
 </p>
+
 
 
 ---
