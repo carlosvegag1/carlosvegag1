@@ -90,17 +90,17 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
   </td>
   
   <td width="50%">
-    <h3 align="center">📈 Predictive Sales Forecasting</h3>
+    <h3 align="center">🏨 Hotel Pricing Analysis</h3>
     <div align="center">
-      <a href="https://github.com/carlosvegag1/sales-forecasting" target="_blank">
-        <img src="https://i.imgur.com/TWozzQP.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Predictive Sales Forecasting">
+      <a href="https://github.com/carlosvegag1/hotel-customer-analysis/" target="_blank">
+        <img src="https://i.imgur.com/eM89suS.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Hotel Pricing Analysis">
       </a>
       <p>
-        <a href="https://github.com/carlosvegag1/sales-forecasting" target="_blank">
+        <a href="https://github.com/carlosvegag1/hotel-customer-analysis/" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=black&labelColor=FFCC4D">
         </a>
       </p>
-      <p>📈 Using Machine Learning models to forecast sales trends and optimize business strategy.</p>
+      <p>📉 What factors influence hotel prices? Do longer stays always mean higher prices?</p>
     </div>
   </td>
 </tr>
