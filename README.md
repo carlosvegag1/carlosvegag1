@@ -71,7 +71,6 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
     </div>
   </td>
 </tr>
-
 <tr>
   <td width="50%">
     <h3 align="center">📊 Emissions Analysis in Spain</h3>
@@ -87,7 +86,6 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
       <p>🌍 Analyzing trends in Spain’s air pollution to identify key sources and their impact over time</p>
     </div>
   </td>
-  
   <td width="50%">
     <h3 align="center">🏨 Hotel Pricing Analysis</h3>
     <div align="center">
