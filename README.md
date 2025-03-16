@@ -75,17 +75,17 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 
 <tr>
   <td width="50%">
-    <h3 align="center">🏨 Hotel Pricing Analysis</h3>
+    <h3 align="center">📺 Netflix Content Analysis with PySpark</h3>
     <div align="center">
-      <a href="https://github.com/carlosvegag1/hotel-customer-analysis/" target="_blank">
+      <a href="https://github.com/carlosvegag1/Netflix-Pyspark-Analysis" target="_blank">
         <img src="https://i.imgur.com/rekbD3q.png" width="400" style="border: 4px solid #FFCC4D; border-radius: 10px;" alt="Hotel Pricing Analysis">
       </a>
       <p>
-        <a href="https://github.com/carlosvegag1/hotel-customer-analysis/" target="_blank">
+        <a href="https://github.com/carlosvegag1/Netflix-Pyspark-Analysis" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-FFCC4D?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p>📉 What factors influence hotel prices? Do longer stays always mean higher prices?</p>
+      <p> ⚡ Cleaning and analysis of the Netflix catalogue using PySpark</p>
     </div>
   </td>
   
