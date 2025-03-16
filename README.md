@@ -53,7 +53,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
           <img src="https://img.shields.io/badge/Code-GitHub-FFCC4D?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p> ⚡ Cleaning and analysis of the Netflix catalogue using Apache PySpark</p>
+      <p>Cleaning and analysis of the Netflix catalogue using Apache PySpark</p>
     </div>
   </td>
   <td width="50%">
@@ -67,7 +67,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
           <img src="https://img.shields.io/badge/Code-GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=black&labelColor=FFCC4D">
         </a>
       </p>
-      <p>📊 What are the most dangerous weeks, days or hours to drive in Madrid?</p>
+      <p>What are the most dangerous weeks, days or hours to drive in Madrid?</p>
     </div>
   </td>
 </tr>
@@ -83,7 +83,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
           <img src="https://img.shields.io/badge/Code-GitHub-FFCC4D?style=for-the-badge&logo=github&logoColor=white&labelColor=4A4A4A">
         </a>
       </p>
-      <p>🌍 Analyzing trends in Spain’s air pollution to identify key sources and their impact over time</p>
+      <p>Analyzing trends in Spain’s air pollution to identify key sources and their impact over time</p>
     </div>
   </td>
   <td width="50%">
@@ -97,7 +97,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
           <img src="https://img.shields.io/badge/Code-GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=black&labelColor=FFCC4D">
         </a>
       </p>
-      <p>📉 What factors influence hotel prices? Do longer stays always mean higher prices?</p>
+      <p>What factors influence hotel prices? Do longer stays always mean higher prices?</p>
     </div>
   </td>
 </tr>
