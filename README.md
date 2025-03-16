@@ -56,7 +56,6 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
       <p> ⚡ Cleaning and analysis of the Netflix catalogue using Apache PySpark</p>
     </div>
   </td>
-  
   <td width="50%">
     <h3 align="center">🔍 Traffic Accidents in Madrid</h3>
     <div align="center">
