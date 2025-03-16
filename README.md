@@ -85,7 +85,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
           <img src="https://img.shields.io/badge/Code-GitHub-FFCC4D?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p> ⚡ Cleaning and analysis of the Netflix catalogue using PySpark, optimising data processing</p>
+      <p> ⚡ Cleaning and analysis of the Netflix catalogue using PySpark and scraping</p>
     </div>
   </td>
   
