@@ -76,7 +76,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
     <h3 align="center">📊 Emissions Analysis in Spain</h3>
     <div align="center">
       <a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank">
-        <img src="https://i.imgur.com/pLEON4s.png" width="400" style="border: 4px solid #FFCC4D; border-radius: 10px;" alt="Emissions-Analysis-Spain">
+        <img src="https://i.imgur.com/nEBOofL.png" width="400" style="border: 4px solid #FFCC4D; border-radius: 10px;" alt="Emissions-Analysis-Spain">
       </a>
       <p>
         <a href="https://github.com/carlosvegag1/Emissions-Analysis-Spain" target="_blank">
