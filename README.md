@@ -61,7 +61,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
     <h3 align="center">🔍 Traffic Accidents in Madrid</h3>
     <div align="center">
       <a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/tree/main" target="_blank">
-        <img src="https://i.imgur.com/FJH0b4k.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Traffic Accidents in Madrid">
+        <img src="https://i.imgur.com/q5NMrcZ.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Traffic Accidents in Madrid">
       </a>
       <p>
         <a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/tree/main" target="_blank">
