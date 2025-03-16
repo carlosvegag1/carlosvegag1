@@ -60,7 +60,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
     <h3 align="center">🔍 Traffic Accidents in Madrid</h3>
     <div align="center">
       <a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/tree/main" target="_blank">
-        <img src="https://i.imgur.com/q5NMrcZ.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Traffic Accidents in Madrid">
+        <img src="https://i.imgur.com/Ws1BKP0.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Traffic Accidents in Madrid">
       </a>
       <p>
         <a href="https://github.com/carlosvegag1/Accidents-Analysis-Madrid/tree/main" target="_blank">
@@ -90,7 +90,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
     <h3 align="center">🏨 Hotel Pricing Analysis</h3>
     <div align="center">
       <a href="https://github.com/carlosvegag1/hotel-customer-analysis/" target="_blank">
-        <img src="https://i.imgur.com/eM89suS.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Hotel Pricing Analysis">
+        <img src="https://i.imgur.com/OFdNthW.png" width="400" style="border: 4px solid #4A4A4A; border-radius: 10px;" alt="Hotel Pricing Analysis">
       </a>
       <p>
         <a href="https://github.com/carlosvegag1/hotel-customer-analysis/" target="_blank">
