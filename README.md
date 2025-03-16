@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/Jvd2dN1.png">
 </div>
 
-## 🚀 About Me  
+## About Me  
 
 I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Communication**. My journey started in storytelling and marketing, but I quickly realized the power of data to drive insights and impact decision-making. Now, I’m focused on **Machine Learning, NLP, and Cloud Computing**, merging technical expertise with communication skills to translate complex data into actionable insights.
 
@@ -15,7 +15,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 
 ---
 
-## 🔧 Technical Skills  
+## Technical Skills  
 
 ### **📌 Programming & Data Science**  
 - **Python** | **SQL** | **R** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn** | **Scikit-learn** | **PySpark MLlib**  
@@ -38,7 +38,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 
 ---
 
-## 💻 Featured Projects  
+## Featured Projects  
 
 <table>
 <tr>
