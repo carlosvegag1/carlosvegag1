@@ -105,7 +105,7 @@ I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Commun
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <a href="https://github.com/carlosvegag1">
