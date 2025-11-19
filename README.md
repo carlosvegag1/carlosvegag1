@@ -5,36 +5,37 @@
 
 ## About Me  
 
-I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Communication**. My journey started in storytelling and marketing, but I quickly realized the power of data to drive insights and impact decision-making. Now, I’m focused on **Machine Learning, NLP, and Cloud Computing**, merging technical expertise with communication skills to translate complex data into actionable insights.
+I’m an **AI Agent Engineer & Multi-Agent Systems Architect**, pioneering the next generation of autonomous software. My core focus is on **Agentic AI**, designing intelligent ecosystems where agents collaborate using cutting-edge protocols like **MCP (Model Context Protocol)** and **A2A (Agent-to-Agent)** interactions.
 
-🔹 Currently pursuing a **Master’s in Data Science & Business Analytics**  
-🔹 **AI, Automation & Data Visualization Enthusiast**  
-🔹 **Passionate about NLP, Generative AI & Business Intelligence**  
+While I possess a strong foundation in **Data Science** that grounds my work in analytical rigor, my true passion lies in building **autonomous multi-agent systems** that solve complex workflows. I bridge the gap between advanced LLM capabilities and scalable business logic, creating systems that don't just analyze data, but *act* on it.
 
-📍 Currently exploring how AI & automation can reshape the future of information and decision-making.
+🔹 **Specialist in AI Agents, MCP & A2A Protocols** | Building the future of autonomous interaction  
+🔹 **LLM Engineer** | RAG, Fine-Tuning & Generative AI Pipelines  
+🔹 **Data Science Background** | Leveraging analytical skills to enhance agent decision-making  
+
+📍 Focused on the bleeding edge of **Agentic Trends** and **Multi-Agent Orchestration**.
 
 ---
 
 ## Technical Skills  
 
-### **📌 Programming & Data Science**  
-- **Python** | **SQL** | **R** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn** | **Scikit-learn** | **PySpark MLlib**  
+### **🤖 AI Agents & Protocols (Core Focus)**
+- **Multi-Agent Systems** | **MCP (Model Context Protocol)** | **A2A (Agent-to-Agent)** | **LangChain** | **LangGraph** | **AutoGPT** | **Agent Orchestration**
 
-### **☁️ Cloud & Big Data**  
-- **AWS Certified Cloud Practitioner** | **AWS Solutions Architect in Progress** | **Azure (OpenAI Services)**
-- **Apache Spark** | **Hadoop** | **MongoDB** | **PostgreSQL** | **Neo4J**  
+### **🧠 LLMs & Generative AI**
+- **RAG Systems** | **LLMOps** | **Prompt Engineering** | **Fine-Tuning** | **OpenAI API** | **Vertex AI** | **Anthropic**
 
-### **🤖 AI & Machine Learning**  
-- **GenAI (LLMs & NLP)** | **Predictive Analytics** | **Recommender Systems** | **Fine-Tuning & Prompting**  
+### **📌 Programming & Backend**
+- **Python** | **FastAPI** | **YAML** | **SQL** | **Docker** | **Kubernetes**
 
-### **📊 Data Visualization & BI**  
-- **Power BI** | **Tableau** | **Plotly** | **Excel**  
+### **☁️ Cloud & Infrastructure**
+- **Google Cloud GenAI Leader** | **GCP (Vertex AI, Firestore)** | **AWS Certified Cloud Practitioner** | **Azure** | **Azure AI**
 
-### **⚡ Automation**  
-- **Docker** | **Kubernetes** | **Power Automate** | **Power Apps**  
+### **💻 Frontend for AI (Prototyping)**
+- **Next.js** | **React** | **TypeScript** | **Tailwind CSS**
 
-### **🎯 Marketing & Content Creation**  
-- **WordPress** | **Adobe Package** | **SEO & Digital Marketing Strategies**  
+### **📊 Data & Analytics (Foundation)**
+- **Pandas** | **NumPy** | **PySpark** | **Data Visualization (Power BI, Tableau)**
 
 ---
 
