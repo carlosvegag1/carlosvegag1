@@ -5,58 +5,65 @@
 
 ## About Me  
 
-I’m an **AI Agent Engineer & Multi-Agent Systems Architect**, pioneering the next generation of autonomous software. My core focus is on **Agentic AI**, designing intelligent ecosystems where agents collaborate using cutting-edge protocols like **MCP (Model Context Protocol)** and **A2A (Agent-to-Agent)** interactions.
+I’m a **Data Scientist & AI Enthusiast** with a background in **Digital Communication**. My journey started in storytelling and marketing, but I quickly realized the power of data to drive insights and impact decision-making. Now, I’m focused on **Machine Learning, NLP, and Cloud Computing**, merging technical expertise with communication skills to translate complex data into actionable insights.
 
-While I possess a strong foundation in **Data Science** that grounds my work in analytical rigor, my true passion lies in building **autonomous multi-agent systems** that solve complex workflows. I bridge the gap between advanced LLM capabilities and scalable business logic, creating systems that don't just analyze data, but *act* on it.
+🔹 Currently pursuing a **Master’s in Data Science & Business Analytics**  
+🔹 **AI, Automation & Data Visualization Enthusiast**  
+🔹 **Passionate about NLP, Generative AI & Business Intelligence**  
 
-🔹 **Specialist in AI Agents, MCP & A2A Protocols** | Building the future of autonomous interaction  
-🔹 **LLM Engineer** | RAG, Fine-Tuning & Generative AI Pipelines  
-🔹 **Data Science Background** | Leveraging analytical skills to enhance agent decision-making  
-
-📍 Focused on the bleeding edge of **Agentic Trends** and **Multi-Agent Orchestration**.
+📍 Currently exploring how AI & automation can reshape the future of information and decision-making.
 
 ---
 
 ## Technical Skills  
 
-### **🤖 AI Agents & Protocols (Core Focus)**
-- **Multi-Agent Systems** | **MCP (Model Context Protocol)** | **A2A (Agent-to-Agent)** | **LangChain** | **LangGraph** | **AutoGPT** | **Agent Orchestration**
+### **📌 Programming & Data Science**  
+- **Python** | **SQL** | **R** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn** | **Scikit-learn** | **PySpark MLlib**  
 
-### **🧠 LLMs & Generative AI**
-- **RAG Systems** | **LLMOps** | **Prompt Engineering** | **Fine-Tuning** | **OpenAI API** | **Vertex AI** | **Anthropic**
+### **☁️ Cloud & Big Data**  
+- **AWS Certified Cloud Practitioner** | **AWS Solutions Architect in Progress** | **Azure (OpenAI Services)**
+- **Apache Spark** | **Hadoop** | **MongoDB** | **PostgreSQL** | **Neo4J**  
 
-### **📌 Programming & Backend**
-- **Python** | **FastAPI** | **YAML** | **SQL** | **Docker** | **Kubernetes**
+### **🤖 AI & Machine Learning**  
+- **GenAI (LLMs & NLP)** | **Predictive Analytics** | **Recommender Systems** | **Fine-Tuning & Prompting**  
 
-### **☁️ Cloud & Infrastructure**
-- **Google Cloud GenAI Leader** | **GCP (Vertex AI, Firestore)** | **AWS Certified Cloud Practitioner** | **Azure** | **Azure AI**
+### **📊 Data Visualization & BI**  
+- **Power BI** | **Tableau** | **Plotly** | **Excel**  
 
-### **📊 Data & Analytics (Foundation)**
-- **Pandas** | **NumPy** | **PySpark** | **Data Visualization (Power BI, Tableau)**
+### **⚡ Automation**  
+- **Docker** | **Kubernetes** | **Power Automate** | **Power Apps**  
+
+### **🎯 Marketing & Content Creation**  
+- **WordPress** | **Adobe Package** | **SEO & Digital Marketing Strategies**  
 
 ---
 
-
 ## Featured Projects  
+
 
 <table>
 <tr>
   <td colspan="2" width="100%">
-    <h3 align="center">🚀 NUEVO PROYECTO DESTACADO</h3>
+    <h3 align="center">🌐 MCP Multi-Agent Travel Orchestrator</h3>
     <div align="center">
-      <a href="https://github.com/carlosvegag1/TU-NUEVO-PROYECTO" target="_blank">
-        <img src="https://i.imgur.com/rThYYQp.png" width="400" style="border: 4px solid #FFCC4D; border-radius: 10px;" alt="Nombre del Proyecto">
+      <a href="https://github.com/carlosvegag1/chat-multiagent" target="_blank">
+        <img src="https://imgur.com/0oOX8RP.png" width="600" style="border: 4px solid #FFCC4D; border-radius: 10px;" alt="MCP Multi-Agent Architecture">
       </a>
       <p>
-        <a href="https://github.com/carlosvegag1/TU-NUEVO-PROYECTO" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-FFCC4D?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://github.com/carlosvegag1/chat-multiagent" target="_blank">
+          <img src="https://img.shields.io/badge/Tech-MCP_Protocol-blue?style=for-the-badge&logo=molecule&logoColor=white">
+          <img src="https://img.shields.io/badge/Stack-FastAPI_|_Docker_|_Next.js-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+          <img src="https://img.shields.io/badge/AI-OpenAI_Orchestrator-000000?style=for-the-badge&logo=openai&logoColor=white">
         </a>
       </p>
-      <p>Descripción corta de tu nuevo proyecto aquí.</p>
+      <p align="center">
+        <strong>An autonomous multi-agent ecosystem designed with an MCP-first architecture.</strong><br>
+        It features a central <strong>LLM Orchestrator</strong> utilizing <strong>JSON-RPC</strong> to coordinate specialized microservices (Flights, Hotels, & NLU Agents). The system ensures modularity, long-term memory persistence, and hallucination responses by grounding generation in real-time API data.
+      </p>
     </div>
   </td>
 </tr>
-  
+
 <tr>
   <td width="50%">
     <h3 align="center">📺 Netflix Analysis with PySpark</h3>
@@ -118,8 +125,8 @@ While I possess a strong foundation in **Data Science** that grounds my work in 
     </div>
   </td>
 </tr>
-
 </table>
+
 ---
 
 ## GitHub Stats
