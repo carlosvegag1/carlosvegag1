@@ -34,8 +34,8 @@ While I possess a strong foundation in **Data Science** that grounds my work in 
 ### **💻 Frontend for AI (Prototyping)**
 - **Next.js** | **React** | **TypeScript** | **Tailwind CSS**
 
-### **📊 Data & Analytics (Foundation)**
-- **Pandas** | **NumPy** | **PySpark** | **Data Visualization (Power BI, Tableau)**
+### **📊 Data & Analytics**
+- **Pandas** | **NumPy** | **PySpark** | **Data Visualization (Power BI, Tableau, Looker)**
 
 ---
 
