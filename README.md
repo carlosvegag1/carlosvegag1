@@ -20,7 +20,7 @@ While I possess a strong foundation in **Data Science** that grounds my work in 
 ## Technical Skills  
 
 ### **🤖 AI Agents & Protocols (Core Focus)**
-- **Multi-Agent Systems** | **MCP (Model Context Protocol)** | **A2A (Agent-to-Agent)** | **LangChain** | **LangGraph** | **AutoGPT** | **Agent Orchestration**
+- **Google Agent Development Kit (Google ADK)** | **Multi-Agent Systems** | **MCP (Model Context Protocol)** | **A2A (Agent-to-Agent)** | **LangChain** | **LangGraph** | **AutoGPT** | **Agent Orchestration**
 
 ### **🧠 LLMs & Generative AI**
 - **RAG Systems** | **LLMOps** | **Prompt Engineering** | **Fine-Tuning** | **OpenAI API** | **Vertex AI** | **Anthropic**
@@ -29,7 +29,7 @@ While I possess a strong foundation in **Data Science** that grounds my work in 
 - **Python** | **FastAPI** | **YAML** | **SQL** | **Docker** | **Kubernetes**
 
 ### **☁️ Cloud & Infrastructure**
-- **Google Cloud GenAI Leader** | **GCP (Vertex AI, Firestore)** | **AWS Certified Cloud Practitioner** | **Azure** | **Azure AI**
+- **Google Cloud GenAI Leader** | **GCP (Vertex AI, Firestore)** | **AWS Certified Cloud Practitioner** | **Azure** | **Azure AI Foundry** 
 
 ### **💻 Frontend for AI (Prototyping)**
 - **Next.js** | **React** | **TypeScript** | **Tailwind CSS**
